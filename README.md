@@ -1,6 +1,6 @@
-## 『Goならわかるシステムプログラミング』（2017年10月発行）正誤表
+## 『Goならわかるシステムプログラミング』（2017年10月発行）正誤情報
 
-[issues](https://github.com/LambdaNote/errata-gosyspro-1-1/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)ページをご覧ください。
+* [正誤と参考情報の一覧](https://github.com/LambdaNote/errata-gosyspro-1-1/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
 
 * [出版者による書籍ページ](https://www.lambdanote.com/products/go)
 
